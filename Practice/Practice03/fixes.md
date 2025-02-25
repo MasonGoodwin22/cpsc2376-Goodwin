@@ -1,4 +1,4 @@
-# Bug Fix Documentation - practice03.cpp
+# Fix Documentation - practice03.cpp
 
 ## 1. Bug in `sumRange(int start, int end)`
 
